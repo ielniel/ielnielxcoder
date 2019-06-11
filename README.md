@@ -6,7 +6,7 @@
   2. pkg update
   3. apt install git
   4. git clone https://github.com/ielniel/ielnielxCoder
-  5. cd ielnielxocoder
+  5. cd ielnielxcoder
   6. sh install.sh
   7. open script ? >> sh ielniel.sh
   8. Enjoyy..!!!
