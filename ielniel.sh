@@ -1,8 +1,8 @@
 #===============================================#
 # [X] AUTHOR 	: IELNIELxCoder                 	#
-# [X] CODED BY  : IELNIELxCoder		   	#
-# [X] EMAIL	: Hutapea.vian@gmail.com	   	#
-# [X] GITHUB	: https://github.com/Ielniel/	#
+# [X] CODED BY  : IELNIELxCoder		   	          #
+# [X] EMAIL	: Hutapea.vian@gmail.com	   	      #
+# [X] GITHUB	: https://github.com/Ielniel/	    #
 #===============================================#
 # TOLONG DONG JANGAN DI RECODE .. !!		#
 # CAPE BANGSAT GUA NGODING NYE ..!!		#
@@ -36,10 +36,10 @@ toilet -f ivrit 'Iel Niel'|lolcat
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     	 Iel Niel Facebook Tools "$i"             |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" IELNIELxCoder"$i"                           |"
-echo $i" |"$pu" GITHUB :"$ku" https://github.com//Ielniel"$i"       |"
-echo $i" |"$pu" GMAIL :"$ku" hutapea.vian@gmail.com"$i"                  |"
-echo $i" |"$pu" YOUTUBE :"$ku" -"$i"                                 |"
+echo $i" |"$pu" AUTHOR :"$ku" IELNIELxCoder"$i"                 |"
+echo $i" |"$pu" GITHUB :"$ku" https://github.com//Ielniel"$i"   |"
+echo $i" |"$pu" GMAIL :"$ku" hutapea.vian@gmail.com"$i"         |"
+echo $i" |"$pu" YOUTUBE :"$ku" -"$i"                            |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"["$bi"•"$i"]"$me"─"$bi"["$i"Menu Tools"$bi"]"$me"────────────────────────"$i"["$bi"•"$i"]"
@@ -65,11 +65,11 @@ echo $bi"|"$me"15 "$bi"|"$i" Phising Facebook 4       "$bi"|"$bi""
 echo $bi"────────────────────────────────"$bi""
 echo $bi"|"$me"16 "$bi"|"$i" Profile Guard Facebook 2 "$bi"|"$bi""
 echo $bi"|"$me"17 "$bi"|"$i" YouTube Convert Mp3      "$bi"|"$bi""
-echo $bi"|"$me"18 "$bi"|"$i" Jadwal Fornite            "$bi"|"$bi""
+echo $bi"|"$me"18 "$bi"|"$i" Jadwal Fornite           "$bi"|"$bi""
 echo $bi"|"$me"19 "$bi"|"$i" Evil Droid               "$bi"|"$bi""
 echo $bi"|"$me"19 "$bi"|"$i" Easy Sploit              "$bi"|"$bi""
 echo $bi"────────────────────────────────"
-echo $bi"|"$me" 0"$bi" |"$i" Keluar Kau Bodat                     "$bi"|"$bi""
+echo $bi"|"$me" 0"$bi" |"$i" Keluar Kau Bodat         "$bi"|"$bi""
 echo $bi"────────────────────────────────"
 echo
 echo $me"┌==="$bi"["$i"IelNiel"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
