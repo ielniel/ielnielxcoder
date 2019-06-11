@@ -6,7 +6,7 @@
   2. pkg update
   3. apt install git
   4. git clone https://github.com/ielniel/ielnielxCoder
-  5. cd quietcat
+  5. cd ielniel
   6. sh install.sh
   7. open script ? >> sh ielniel.sh
   8. Enjoyy..!!!
